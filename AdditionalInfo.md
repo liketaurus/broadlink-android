@@ -1,4 +1,4 @@
-#Некоторые полезные ресурсы
+#Найденные материалы "по теме"
 ---
 * An API to connect your Broadlink RM-Pro IR/RF wifi [bridge] to your home automation system?
 * Управление RM-Pro сторонними [инструментами]
